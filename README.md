@@ -12,7 +12,7 @@
 <h2>Introduccion</h2>
 <p>Antonio González Mayorga - 1º DAW</p>
 <p>Proyecto dedicado a la competición UEFA Champions League</p>
-<p>17-02-2024</p>
+<p>16-03-2024</p>
 
 <h2 id="wtp">¿Por qúe este tema?</h2>
 <p>Sigo mucho los deportes, y en especial el fútbol. Es una competición muy interesante así que me decidí por este tema</p>
